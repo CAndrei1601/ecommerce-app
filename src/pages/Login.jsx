@@ -70,7 +70,7 @@ const Login = () => {
             <Button>LOG IN</Button>
           </Link>
           <LinkOne>Forget password ?</LinkOne>
-          <LinkOne>Create New Account</LinkOne>
+          <LinkOne>Create New Accountt</LinkOne>
         </Form>
       </Wrapper>
     </Container>
